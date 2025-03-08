@@ -4,4 +4,4 @@
 > Convert between 150+ currencies
 > Real-time exchange rates using an API
 > React Custom Hook for API management
-> Tailwind CSS for a clean and modern UI
+> Tailwind CSS for a clean and modern UI 
